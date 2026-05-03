@@ -1,0 +1,16 @@
+[project]
+name = "ifbench-baseline"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "emoji>=2.15.0",
+    "immutabledict>=4.3.1",
+    "langdetect>=1.0.9",
+    "litellm>=1.83.3",
+    "nltk>=3.9.4",
+    "packaging>=26.0",
+    "python-dotenv>=1.0.1",
+    "setuptools<82",
+    "spacy>=3.8.14",
+    "syllapy>=0.7.2",
+]

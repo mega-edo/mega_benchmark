@@ -1,0 +1,350 @@
+{
+  "adaptive-cruise-control": {
+    "discovery_seconds": 14.338,
+    "procedure_generation_seconds": 13.197
+  },
+  "citation-check": {
+    "discovery_seconds": 11.843,
+    "procedure_generation_seconds": 18.529
+  },
+  "3d-scan-calc": {
+    "discovery_seconds": 15.33,
+    "procedure_generation_seconds": 15.643
+  },
+  "court-form-filling": {
+    "discovery_seconds": 28.584,
+    "procedure_generation_seconds": 14.583
+  },
+  "dapt-intrusion-detection": {
+    "discovery_seconds": 26.647,
+    "procedure_generation_seconds": 17.302
+  },
+  "azure-bgp-oscillation-route-leak": {
+    "discovery_seconds": 35.001,
+    "procedure_generation_seconds": 11.494
+  },
+  "civ6-adjacency-optimizer": {
+    "discovery_seconds": 30.76,
+    "procedure_generation_seconds": 19.879
+  },
+  "crystallographic-wyckoff-position-analysis": {
+    "discovery_seconds": 37.258,
+    "procedure_generation_seconds": 18.442
+  },
+  "dynamic-object-aware-egomotion": {
+    "discovery_seconds": 15.446,
+    "procedure_generation_seconds": 11.331
+  },
+  "dialogue-parser": {
+    "discovery_seconds": 18.907,
+    "procedure_generation_seconds": 14.068
+  },
+  "data-to-d3": {
+    "discovery_seconds": 18.561,
+    "procedure_generation_seconds": 18.94
+  },
+  "earthquake-plate-calculation": {
+    "discovery_seconds": 15.846,
+    "procedure_generation_seconds": 14.885
+  },
+  "earthquake-phase-association": {
+    "discovery_seconds": 15.807,
+    "procedure_generation_seconds": 17.041
+  },
+  "enterprise-information-search": {
+    "discovery_seconds": 11.774,
+    "procedure_generation_seconds": 10.111
+  },
+  "econ-detrending-correlation": {
+    "discovery_seconds": 18.907,
+    "procedure_generation_seconds": 16.258
+  },
+  "energy-market-pricing": {
+    "discovery_seconds": 12.773,
+    "procedure_generation_seconds": 17.232
+  },
+  "energy-ac-optimal-power-flow": {
+    "discovery_seconds": 22.328,
+    "procedure_generation_seconds": 16.268
+  },
+  "exceltable-in-ppt": {
+    "discovery_seconds": 9.614,
+    "procedure_generation_seconds": 19.394
+  },
+  "exoplanet-detection-period": {
+    "discovery_seconds": 11.82,
+    "procedure_generation_seconds": 16.2
+  },
+  "financial-modeling-qa": {
+    "discovery_seconds": 10.912,
+    "procedure_generation_seconds": 16.462
+  },
+  "find-topk-similiar-chemicals": {
+    "discovery_seconds": 11.1,
+    "procedure_generation_seconds": 17.284
+  },
+  "fix-build-agentops": {
+    "discovery_seconds": 12.634,
+    "procedure_generation_seconds": 15.717
+  },
+  "fix-build-google-auto": {
+    "discovery_seconds": 11.976,
+    "procedure_generation_seconds": 16.324
+  },
+  "fix-druid-loophole-cve": {
+    "discovery_seconds": 15.2,
+    "procedure_generation_seconds": 17.375
+  },
+  "fix-visual-stability": {
+    "discovery_seconds": 15.209,
+    "procedure_generation_seconds": 16.774
+  },
+  "fix-erlang-ssh-cve": {
+    "discovery_seconds": 19.666,
+    "procedure_generation_seconds": 19.895
+  },
+  "flink-query": {
+    "discovery_seconds": 16.915,
+    "procedure_generation_seconds": 29.773
+  },
+  "gravitational-wave-detection": {
+    "discovery_seconds": 22.799,
+    "procedure_generation_seconds": 11.943
+  },
+  "flood-risk-analysis": {
+    "discovery_seconds": 28.856,
+    "procedure_generation_seconds": 13.927
+  },
+  "glm-lake-mendota": {
+    "discovery_seconds": 24.821,
+    "procedure_generation_seconds": 12.9
+  },
+  "grid-dispatch-operator": {
+    "discovery_seconds": 12.744,
+    "procedure_generation_seconds": 15.77
+  },
+  "hvac-control": {
+    "discovery_seconds": 9.62,
+    "procedure_generation_seconds": 13.815
+  },
+  "gh-repo-analytics": {
+    "discovery_seconds": 29.844,
+    "procedure_generation_seconds": 18.89
+  },
+  "jax-computing-basics": {
+    "discovery_seconds": 10.366,
+    "procedure_generation_seconds": 13.666
+  },
+  "lab-unit-harmonization": {
+    "discovery_seconds": 10.949,
+    "procedure_generation_seconds": 13.814
+  },
+  "lake-warming-attribution": {
+    "discovery_seconds": 12.141,
+    "procedure_generation_seconds": 13.127
+  },
+  "latex-formula-extraction": {
+    "discovery_seconds": 12.252,
+    "procedure_generation_seconds": 14.252
+  },
+  "jpg-ocr-stat": {
+    "discovery_seconds": 13.109,
+    "procedure_generation_seconds": 15.977
+  },
+  "invoice-fraud-detection": {
+    "discovery_seconds": 34.33,
+    "procedure_generation_seconds": 14.017
+  },
+  "lean4-proof": {
+    "discovery_seconds": 11.498,
+    "procedure_generation_seconds": 20.787
+  },
+  "manufacturing-codebook-normalization": {
+    "discovery_seconds": 14.678,
+    "procedure_generation_seconds": 17.434
+  },
+  "manufacturing-equipment-maintenance": {
+    "discovery_seconds": 13.272,
+    "procedure_generation_seconds": 18.813
+  },
+  "mario-coin-counting": {
+    "discovery_seconds": 26.751,
+    "procedure_generation_seconds": 16.151
+  },
+  "offer-letter-generator": {
+    "discovery_seconds": 19.586,
+    "procedure_generation_seconds": 21.965
+  },
+  "paper-anonymizer": {
+    "discovery_seconds": 17.074,
+    "procedure_generation_seconds": 12.283
+  },
+  "mars-clouds-clustering": {
+    "discovery_seconds": 38.678,
+    "procedure_generation_seconds": 14.623
+  },
+  "mhc-layer-impl": {
+    "discovery_seconds": 38.949,
+    "procedure_generation_seconds": 15.55
+  },
+  "manufacturing-fjsp-optimization": {
+    "discovery_seconds": 43.961,
+    "procedure_generation_seconds": 19.864
+  },
+  "organize-messy-files": {
+    "discovery_seconds": 11.825,
+    "procedure_generation_seconds": 37.404
+  },
+  "pddl-tpp-planning": {
+    "discovery_seconds": 9.079,
+    "procedure_generation_seconds": 11.103
+  },
+  "parallel-tfidf-search": {
+    "discovery_seconds": 12.75,
+    "procedure_generation_seconds": 16.723
+  },
+  "multilingual-video-dubbing": {
+    "discovery_seconds": 55.141,
+    "procedure_generation_seconds": 14.397
+  },
+  "pg-essay-to-audiobook": {
+    "discovery_seconds": 9.549,
+    "procedure_generation_seconds": 12.558
+  },
+  "pedestrian-traffic-counting": {
+    "discovery_seconds": 13.789,
+    "procedure_generation_seconds": 13.185
+  },
+  "pdf-excel-diff": {
+    "discovery_seconds": 13.28,
+    "procedure_generation_seconds": 17.522
+  },
+  "protein-expression-analysis": {
+    "discovery_seconds": 10.722,
+    "procedure_generation_seconds": 12.907
+  },
+  "pptx-reference-formatting": {
+    "discovery_seconds": 13.797,
+    "procedure_generation_seconds": 22.632
+  },
+  "r2r-mpc-control": {
+    "discovery_seconds": 8.881,
+    "procedure_generation_seconds": 13.667
+  },
+  "powerlifting-coef-calc": {
+    "discovery_seconds": 16.725,
+    "procedure_generation_seconds": 23.102
+  },
+  "python-scala-translation": {
+    "discovery_seconds": 13.282,
+    "procedure_generation_seconds": 17.082
+  },
+  "quantum-numerical-simulation": {
+    "discovery_seconds": 13.545,
+    "procedure_generation_seconds": 18.801
+  },
+  "react-performance-debugging": {
+    "discovery_seconds": 14.372,
+    "procedure_generation_seconds": 17.708
+  },
+  "sales-pivot-analysis": {
+    "discovery_seconds": 14.84,
+    "procedure_generation_seconds": 17.502
+  },
+  "setup-fuzzing-py": {
+    "discovery_seconds": 12.637,
+    "procedure_generation_seconds": 17.275
+  },
+  "sec-financial-report": {
+    "discovery_seconds": 15.773,
+    "procedure_generation_seconds": 15.773
+  },
+  "seismic-phase-picking": {
+    "discovery_seconds": 21.642,
+    "procedure_generation_seconds": 15.888
+  },
+  "shock-analysis-demand": {
+    "discovery_seconds": 17.27,
+    "procedure_generation_seconds": 15.016
+  },
+  "reserves-at-risk-calc": {
+    "discovery_seconds": 36.391,
+    "procedure_generation_seconds": 20.653
+  },
+  "simpo-code-reproduction": {
+    "discovery_seconds": 9.845,
+    "procedure_generation_seconds": 12.798
+  },
+  "scheduling-email-assistant": {
+    "discovery_seconds": 37.555,
+    "procedure_generation_seconds": 17.514
+  },
+  "speaker-diarization-subtitles": {
+    "discovery_seconds": 13.043,
+    "procedure_generation_seconds": 13.451
+  },
+  "software-dependency-audit": {
+    "discovery_seconds": 12.825,
+    "procedure_generation_seconds": 15.741
+  },
+  "shock-analysis-supply": {
+    "discovery_seconds": 37.513,
+    "procedure_generation_seconds": 20.262
+  },
+  "syzkaller-ppdev-syzlang": {
+    "discovery_seconds": 50.993,
+    "procedure_generation_seconds": 13.761
+  },
+  "threejs-to-obj": {
+    "discovery_seconds": 31.472,
+    "procedure_generation_seconds": 14.927
+  },
+  "suricata-custom-exfil": {
+    "discovery_seconds": 54.701,
+    "procedure_generation_seconds": 12.878
+  },
+  "taxonomy-tree-merge": {
+    "discovery_seconds": 44.009,
+    "procedure_generation_seconds": 16.059
+  },
+  "trend-anomaly-causal-inference": {
+    "discovery_seconds": 21.551,
+    "procedure_generation_seconds": 16.303
+  },
+  "spring-boot-jakarta-migration": {
+    "discovery_seconds": 53.84,
+    "procedure_generation_seconds": 18.558
+  },
+  "threejs-structure-parser": {
+    "discovery_seconds": 40.938,
+    "procedure_generation_seconds": 16.66
+  },
+  "travel-planning": {
+    "discovery_seconds": 42.168,
+    "procedure_generation_seconds": 11.429
+  },
+  "virtualhome-agent-planning": {
+    "discovery_seconds": 23.016,
+    "procedure_generation_seconds": 10.726
+  },
+  "xlsx-recover-data": {
+    "discovery_seconds": 19.921,
+    "procedure_generation_seconds": 13.739
+  },
+  "video-tutorial-indexer": {
+    "discovery_seconds": 24.684,
+    "procedure_generation_seconds": 13.614
+  },
+  "video-filler-word-remover": {
+    "discovery_seconds": 22.27,
+    "procedure_generation_seconds": 20.837
+  },
+  "weighted-gdp-calc": {
+    "discovery_seconds": 28.221,
+    "procedure_generation_seconds": 14.568
+  },
+  "video-silence-remover": {
+    "discovery_seconds": 25.991,
+    "procedure_generation_seconds": 22.919
+  }
+}

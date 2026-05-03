@@ -1,0 +1,13 @@
+[project]
+name = "hotpotqa-baseline"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "bm25s>=0.3.4",
+    "datasets>=4.8.4",
+    "diskcache>=5.6.3",
+    "litellm>=1.83.10",
+    "pystemmer>=3.0.0",
+    "python-dotenv>=1.0.1",
+    "ujson>=5.12.0",
+]

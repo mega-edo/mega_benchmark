@@ -1,0 +1,13 @@
+hotpotqa/
+hover/
+ifbench/
+pupa/
+
+.DS_Store
+__MACOSX/
+*.pyc
+__pycache__/
+.env
+.venv/
+harbor-medium-best-v2-results.tar.gz
+*.zip
