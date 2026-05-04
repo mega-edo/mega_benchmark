@@ -1,6 +1,6 @@
 # MEGA Benchmark
 
-Reproducible benchmark of MEGA's code-level optimization across two evaluation suites:
+Benchmark results of MEGA tech report:
 
 1. **SkillsBench skill-curation comparison** (84 tasks, 11 domains) — MEGA (WG) vs No Skills / SkillNet / AgentSkillOS. Results in [`skillbench-results/`](skillbench-results/).
 2. **GEPA-style workflow benchmarks** (HotpotQA, IFBench, HoVer, PUPA) — comparison against MIPROv2, TextGrad, GEPA, Feedback Descent. Results in [`optimization-results/`](optimization-results/).
